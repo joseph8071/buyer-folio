@@ -22,28 +22,6 @@ Buyer Folio is a web application designed to make homeownership more accessible 
 - **Routing**: React Router
 - **Icons**: Font Awesome
 
-## Project Structure
-buyer-folio/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.js
-│ │ └── ...
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── About.js
-│ │ ├── Blog.js
-│ │ ├── Contact.js
-│ │ └── Partnership.js
-│ ├── assets/
-│ │ └── images/
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── public/
-│ └── index.html
-└── package.json
-
-
 ## Getting Started
 
 1. **Clone the repository**
